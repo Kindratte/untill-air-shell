@@ -5,7 +5,6 @@ Framework to build nice extensible UI
 - VS Code like
 - Extentions can be written using any framework - Reac, Angular, Vue, others
 
-
 [Terminology](docs-md/Terminology.md)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
